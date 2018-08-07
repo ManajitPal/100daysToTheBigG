@@ -10,10 +10,11 @@ A compilation of coding challenges with explanation of concepts for Udacity Goog
 ### General
 * [Contributing Guidelines](Contributing.md)
 
-### Competitions
-* [Links to various challenges](External%20Resources/Links.md)
+### Resources and Links
+* [Competitive Programming Resources](External%20Resources/Getting%20Started.md)
+* [Links to various competitions](External%20Resources/Competitions.md)
 
-### Challenges
+### Practice Challenges
 * [Arrays](Arrays/)
 * [Dictionaries and Hashmaps](Dictionaries%20and%20Hashmaps/)
 * [Sorting](Sorting/)

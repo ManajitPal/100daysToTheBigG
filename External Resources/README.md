@@ -1,4 +1,5 @@
 ## External Resources
 
 ### Index
-* [Competitions](Links.md)
+* [Getting Started](Getting%20Started.md)
+* [Competitions](competitions.md)
