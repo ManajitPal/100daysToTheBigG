@@ -4,7 +4,7 @@ A compilation of coding challenges with explanation of concepts for Udacity Goog
 
 
 
-##Contents of the repository
+## Contents of the repository
 
 
 ### General
