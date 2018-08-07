@@ -1,4 +1,4 @@
-[Source credit](https://github.com/danivijay/gucs-wiki/blob/master/CONTRIBUTING.md) (I found this to be one of the simplest explanation for contributing  to any repository)
+*[Source credit](https://github.com/danivijay/gucs-wiki/blob/master/CONTRIBUTING.md) (I found this to be one of the simplest explanation for contributing  to any repository)*
 
 <img align="right" width="300" src="https://i.imgur.com/E4FlFju.png" alt="fork this repository" />
 
