@@ -1,4 +1,4 @@
-##The following are the links to some of the competitions
+## The following are the links to some of the competitions
 
 - [ICPC](https://icpc.baylor.edu/)
 - [Google Code Jam](https://code.google.com/codejam/)
