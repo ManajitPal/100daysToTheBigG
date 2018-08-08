@@ -6,11 +6,14 @@
 
 * [Initialization using Min value instead of 0](https://www.geeksforgeeks.org/int_max-int_min-cc-applications/)
 
+
 * Explanation of the question
 
-*given a 2d array*, we need to *loop through the whole array* and *add certain elements* (in this case the elements to be added are in hourglass pattern). Finally *find the maximum of those sums* and print it.
+**Given a 2d array**, we need to **loop through the whole array** and **add certain elements** (in this case the elements to be added are in hourglass pattern). Finally **find the maximum of those sums** and print it.
+
 
 * Picture representation
 
 The following picture represents how a 2D array is structured in computer and how hourglass pattern can be obtained.
-<img style="display:table-cell; vertical-align:middle; text-align:center" width="500" src="picture1.jpg" alt="picure explaining 2-D array representation" />
+
+<img width="500" src="picture1.jpg" alt="picure explaining 2-D array representation" />
