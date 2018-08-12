@@ -11,7 +11,7 @@ A compilation of coding challenges with explanation of concepts for Udacity Goog
 * [Contributing Guidelines](Contributing.md)
 
 ### Resources and Links
-* [Competitive Programming Resources](External%20Resources/Getting%20Started.md)
+* [Getting Started with competitive Programming](External%20Resources/Getting%20Started.md)
 * [Links to various competitions](External%20Resources/Competitions.md)
 
 ### Practice Challenges
@@ -28,7 +28,10 @@ A compilation of coding challenges with explanation of concepts for Udacity Goog
 * [Linked Lists](Linked%20Lists/)
 * [Recursion and Backtracking](Recursion%20and%20Backtracking)
 * [Miscellaneous](Miscellaneous/)
+    * [Number of Primes - Efficient Algorithm](Miscellaneous/Mogu%20Loves%20Numbers%20-%20Hackerearth)
 
+### GIS Challenges
+* [GIS Challenge - Pilot](GIS/Episode1)
 
 ## Contributers
 **format**: _github handle - slack handle
