@@ -5,3 +5,4 @@
 * [*Youtube* CS Dojo - Resources for Learning Data Structures and Algorithms (Data Structures & Algorithms #8)](https://www.youtube.com/watch?v=UNWSdgaPkwY)
 * [*Book* Competitive Programming 3 - Amazon](https://www.amazon.com/Competitive-Programming-3rd-Steven-Halim/dp/B00FG8MNN8)
 * [*Curated Article* awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
+* [*Curated Article* common algorithms in different languages at one place](https://github.com/ZoranPandovski/al-go-rithms)

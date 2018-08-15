@@ -33,6 +33,9 @@ A compilation of coding challenges with explanation of concepts for Udacity Goog
 ### GIS Challenges
 * [GIS Challenge - Pilot](GIS/Episode1)
 
+### GIS Sessions
+* [Session 1 - Transcript](GIS/sessions/session1.md)
+
 ## Contributers
 **format**: _github handle - slack handle
 
