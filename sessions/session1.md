@@ -27,24 +27,29 @@ In simple words "Solving well-defined problems by writing computer programs unde
 ### Problem Solving Section
 * Left Rotation
     1. The same problem can be solved in Python/Java using slicing:
-    ```n, d = map(int, input().split())
+    ```
+        n, d = map(int, input().split())
         arr = list(map(int, input().split()))
         arr2 = [0 for _ in range(n)]
         arr2[n-d:n] = arr[:d]
         arr2[:n-d] = arr[d:]
-        print(arr2)```
+        print(arr2)
+    ```
     2. Left rotation problem can be solved in O(n) time.
-    ```int n = /* take input */
+    ```
+        int n = /* take input */
         int d = /* take input */
         int [] a = /* input array */
         int [] b = /* rotated array initialize of same size as a */
         for ( int i = 0; i < n; i++) {
             b[i+n-d] = a[i];
         }
-        /* print b */```
+        /* print b */
+    ```
 * Problem of Sparse Array
     1. Approach 1: Complexity = O(n*m)
-    ```static int[]matchingStrings(String[]strings,String[] queries){
+    ```
+        static int[]matchingStrings(String[]strings,String[] queries){
 
         int[]answer=new int[queries.length];
 
@@ -58,9 +63,11 @@ In simple words "Solving well-defined problems by writing computer programs unde
         }
 
         return answer;
-    }```
+        }
+    ```
     2. Approach 2: Complexity = O(n+m)
-    ```static int[] matchingStrings(String[] strings, String[] queries){
+    ```
+        static int[] matchingStrings(String[] strings, String[] queries){
         HashMap<String, Integer> frequencies = new HashMap();
 
         int[] answer = new int[queries.length];
@@ -84,10 +91,12 @@ In simple words "Solving well-defined problems by writing computer programs unde
         }
 
         return answer;
-    }```
+        }
+    ```
 * Print the nth node from the last.
     1. Can be solved by using two-pointer method:
-    ```static int getNode(SinglyLinkedListNode head, int positionFromTail) {
+    ```
+        static int getNode(SinglyLinkedListNode head, int positionFromTail) {
         int a = 0;
         SinglyLinkedListNode c = head, r = head;
         while(c != null){
@@ -96,5 +105,6 @@ In simple words "Solving well-defined problems by writing computer programs unde
                 r = r.next;
         }
         return r.data;
-    }```
+        }
+    ```
 
