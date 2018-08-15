@@ -16,13 +16,13 @@ In simple words "Solving well-defined problems by writing computer programs unde
     3. You can guess the complexity of algorithm that will Solve the problem beforehand looking at the constraints.
 
 * In some contests, there is a penalty for wrong answers. so, how do we check them on local machine ? also, the inputs are very large. Here is how :
+    <img align="right" width="300" src="scr.png" alt="example for running program in terminal" />
     1. Download the input as txt file and place in same directory as your program.
     2. Run your program from terminal using command
     ```python3 program name <input file name> output file name```
     or
     ```java program name <input file name> output file name```
     3. You program output will be saved in a text file.
-    <img align="right" width="300" src="scr.png" alt="example for running program in terminal" />
 
 ### Problem Solving Section
 * Left Rotation
